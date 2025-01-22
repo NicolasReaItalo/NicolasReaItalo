@@ -12,7 +12,6 @@ Currently seeking opportunities to grow and contribute in the field of web devel
 
 ### What I'm Working On
 
-- A **message broker** using Django Channels and RabbitMQ
 - Building a **Pong multiplayer game** with real-time communication
 - Exploring modern C++ and advanced Python
 
@@ -32,7 +31,6 @@ Currently seeking opportunities to grow and contribute in the field of web devel
 A collection of challenges from my time at [42 Paris](https://42.fr), showcasing my progress in C, C++, and systems programming.
 
 - **[Minishell](https://github.com/NicolasReaItalo/minishell/)**: Linux interactive shell from scratch
-- **[minishell](https://github.com/NicolasReaItalo/minishell/)**: Linux interactive shell from scratch
 
 ### Experience
 
