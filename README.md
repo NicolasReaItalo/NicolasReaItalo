@@ -1,7 +1,7 @@
 # Welcome to my GitHub Profile
 
 I'm Nicolas, a student at [42 Paris](https://42.fr) coming from the film industry and passionate about software development.
-Currently seeking opportunities to grow and contribute in the field of web development and systems engineering.
+Currently seeking opportunities to grow and contribute in the field of web development and software engineering.
 
 ### Skills
 
