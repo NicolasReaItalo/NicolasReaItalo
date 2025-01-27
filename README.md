@@ -6,7 +6,7 @@ Currently seeking opportunities to grow and contribute in the field of web devel
 ### Skills
 
 - **Languages:** C, C++, Python, JavaScript
-- **Frameworks & Tools:** Django
+- **Frameworks & Tools:** Django, Docker, Git, Bash, Linux
 - **Technologies:** REST APIs, WebSockets, Docker, Git
 - **Other:** Algorithm design, video processing, and debugging
 
