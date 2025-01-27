@@ -13,7 +13,7 @@ Currently seeking opportunities to grow and contribute in the field of web devel
 ### What I'm Working On
 
 - Building a **Pong multiplayer game** with real-time communication
-- Exploring modern C++ and advanced Python
+- Exploring advanced Python
 
 ### Learning Goals
 
