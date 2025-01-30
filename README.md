@@ -15,11 +15,6 @@ Currently seeking opportunities to grow and contribute in the field of web devel
 - Building a **Pong multiplayer game** with real-time communication
 - Exploring advanced Python
 
-### Learning Goals
-
-- Mastering SQL and database administration
-- Enhancing my skills in distributed systems
-- Diving deeper into video processing algorithms
 
 ### Featured Projects
 
