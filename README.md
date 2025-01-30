@@ -31,7 +31,7 @@ Currently seeking opportunities to grow and contribute in the field of web devel
 A collection of challenges from my time at [42 Paris](https://42.fr), showcasing my progress in C, C++, and systems programming.
 
 - **[Minishell](https://github.com/NicolasReaItalo/minishell/)**: Linux interactive shell from scratch
-- **[Cub3D](https://github.com/NicolasReaItalo/cub3D/)**: Linux "Castle Wolfenstein" raycasting engine
+- **[Cub3D](https://github.com/NicolasReaItalo/cub3D/)**: "Castle Wolfenstein" raycasting engine
 ### Experience
 
 - Graduate of **42 Paris**, trained in software engineering and collaborative coding.
