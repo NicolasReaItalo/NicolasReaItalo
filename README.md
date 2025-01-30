@@ -25,12 +25,13 @@ Currently seeking opportunities to grow and contribute in the field of web devel
 
 - **[CropDetect](https://github.com/NicolasReaItalo/CropDetect):**
   Detect and correct video issues such as black bars and bad edges.
-
+  
 #### 42 Projects
 
 A collection of challenges from my time at [42 Paris](https://42.fr), showcasing my progress in C, C++, and systems programming.
 
 - **[Minishell](https://github.com/NicolasReaItalo/minishell/)**: Linux interactive shell from scratch
+- **[Cube3D](https://github.com/NicolasReaItalo/cube3D/)**: Linux "Castle Wolfenstein" raycasting engine
 
 ### Experience
 
