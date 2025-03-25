@@ -19,7 +19,7 @@ Currently seeking opportunities to grow and contribute in the field of web devel
 
 A sample of challenges from my time at [42 Paris](https://42.fr).
 
-- **[Webserv](https://github.com/NicolasReaItalo/Transcendence/)**: Pong multiplayer game with real-time communication and social features
+- **[Transcendence](https://github.com/NicolasReaItalo/Transcendence/)**: Pong multiplayer game with real-time communication and social features
 - **[Webserv](https://github.com/NicolasReaItalo/cub3D/)**: "Castle Wolfenstein" raycasting engine
 - **[Minishell](https://github.com/NicolasReaItalo/minishell/)**: Linux interactive shell from scratch
 - **[Cub3D](https://github.com/NicolasReaItalo/cub3D/)**: A http1.1 server, coded in c++98
