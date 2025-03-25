@@ -10,27 +10,20 @@ Currently seeking opportunities to grow and contribute in the field of web devel
 - **Technologies:** REST APIs, WebSockets, Docker, Git
 - **Other:** Algorithm design, video processing, and debugging
 
-### What I'm Working On
-
-- Building a **Pong multiplayer game** with real-time communication
-- Exploring advanced Python
-
-
 ### Featured Projects
 
 - **[CropDetect](https://github.com/NicolasReaItalo/CropDetect):**
-  Detect and correct video issues such as black bars and bad edges.
+  Detect video issues such as bad edges in video files.
   
-#### 42 Projects
+#### Ecole 42 sample Projects
 
-A collection of challenges from my time at [42 Paris](https://42.fr), showcasing my progress in C, C++, and systems programming.
+A sample of challenges from my time at [42 Paris](https://42.fr).
 
+- **[Webserv](https://github.com/NicolasReaItalo/Transcendence/)**: Pong multiplayer game with real-time communication and social features
+- **[Webserv](https://github.com/NicolasReaItalo/cub3D/)**: "Castle Wolfenstein" raycasting engine
 - **[Minishell](https://github.com/NicolasReaItalo/minishell/)**: Linux interactive shell from scratch
-- **[Cub3D](https://github.com/NicolasReaItalo/cub3D/)**: "Castle Wolfenstein" raycasting engine
-### Experience
+- **[Cub3D](https://github.com/NicolasReaItalo/cub3D/)**: A http1.1 server, coded in c++98
 
-- Graduate of **42 Paris**, trained in software engineering and collaborative coding.
-- Hands-on experience developing backend systems, APIs, and tools for file processing.
 
 ### Let's Connect!
 
